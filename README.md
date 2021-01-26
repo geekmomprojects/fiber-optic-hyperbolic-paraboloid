@@ -5,16 +5,16 @@ design files for an illuminated hyperbolic paraboloid ruled with illuminated fib
 
 A brief description of the build:
 
-Materials:
--1/8" (3.2mm) wood sheet for laser cutting
--3mm thick EVA foam with an adhesive backing
--small (2mm wide or similar) zip ties
--3mm diameter solid-core side-glow fiber optic cable
--optional: wood glue
--4 10-led lengths of a 60 LEDs/meter WS2812b LED strip containing 3535 sized LEDs, without any joins in the strips (if you use a strip with 5050 LEDs, you'll need to make the squares in the EVA foam strip a bit wider to accomodate them)
--duct tape (1" width is ideal, but you can trim a wider strip down)
--hookup wire/solder
--microcontroller for coding the patterns
+Materials:<BR>
+-1/8" (3.2mm) wood sheet for laser cutting<BR>
+-3mm thick EVA foam with an adhesive backing<BR>
+-small (2mm wide or similar) zip ties<BR>
+-3mm diameter solid-core side-glow fiber optic cable<BR>
+-optional: wood glue<BR>
+-4 10-led lengths of a 60 LEDs/meter WS2812b LED strip containing 3535 sized LEDs, without any joins in the strips (if you use a strip with 5050 LEDs, you'll need to make the squares in the EVA foam strip a bit wider to accomodate them)<BR>
+-duct tape (1" width is ideal, but you can trim a wider strip down)<BR>
+-hookup wire/solder<BR>
+-microcontroller for coding the patterns<BR><BR>
 
 Laser cut the frame pieces from the wood sheet, and assemble them into a 3D V-shaped frame using the connector pieces. I was able to press-fit the pieces well enough to hold the frame together quite sturdily, but you might want to place a bit of wood glue on the tabs and slots before joining them in order to hold the assembly together. 
 
